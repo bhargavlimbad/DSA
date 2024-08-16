@@ -1,5 +1,8 @@
 /**
      https://leetcode.com/problems/lemonade-change/description/
+     Greedy problem
+     TC : O(N)
+     SC : O(1)
  */
 class Solution {
     public boolean lemonadeChange(int[] bills) {
